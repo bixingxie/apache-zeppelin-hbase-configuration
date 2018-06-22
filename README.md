@@ -122,7 +122,13 @@ This is a guide on local installation of Apache-zeppelin and configuration of it
 	/usr/local/hbase-1.2.0/lib/hbase-protocol-1.2.0.jar
 	/usr/local/hbase-1.2.0/lib/hbase-common-1.2.0.jar
 	```
-5. Create a Notebook with Hbase interpreter and see if the following command works: 
+	
+5. Your Hbase Interpreter should look like this: 
+
+![](hbase-interpreter.png)
+
+
+6. Create a Notebook with Hbase interpreter and see if the following command works: 
 
 	```
 	create 'table', 'col1', 'col2'
