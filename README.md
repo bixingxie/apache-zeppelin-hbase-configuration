@@ -88,7 +88,7 @@ This is a guide on local installation of Apache-zeppelin and configuration of it
 3. Start zeppelin
 
 	```
-	cd /user/local/zeppelin
+	cd /usr/local/zeppelin
 	bin/zeppelin-daemon.sh start
 	```
 
