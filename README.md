@@ -2,14 +2,6 @@
 
 This is a guide on local installation of Apache-zeppelin and configuration of its Hbase interpreter on **MacOS** (Version 10.13.1). 
 
-# Dependencies
-
-* Homebrew 
-* Java8
-* Hadoop
-* Hbase 
-* Apache-zeppelin 
-
 # Versions 
 
 * Java **1.8.0_172**
