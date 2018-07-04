@@ -50,7 +50,11 @@ This is a guide on local installation of Apache-zeppelin and configuration of it
 
 1. Download a stable release from [Apache Download Mirror](http://www.apache.org/dyn/closer.cgi/hbase/).
 
-2. Unpack it on your local file system, e.g. /usr/local/...
+2. Unpack it on your local file system, e.g. 
+
+	```
+	/usr/local/...
+	```
 
 3. Specifying **JAVA_HOME** variable in Hbase's **conf/hbase-env.sh** file. e.g.
 	
